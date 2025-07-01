@@ -242,7 +242,7 @@
         },
         {
             "question": "Welches ist das Wappen der Bundesrepublik Deutschland?",
-            "image": "21.jpg",
+            "image": "21.png",
             "options": [
                 "1",
                 "2",
@@ -650,7 +650,7 @@
         },
         {
             "question": "Was zeigt dieses Bild?",
-            "image": "55.jpg",
+            "image": "55.png",
             "options": [
                 "den Bundestagssitz in Berlin",
                 "das Bundesverfassungsgericht in Karlsruhe",
@@ -830,7 +830,7 @@
         },
         {
             "question": "Der deutsche Bundespräsident Gustav Heinemann gibt Helmut Schmidt 1974 die Ernennungsurkunde zum deutschen Bundeskanzler. Was gehört zu den Aufgaben der deutschen Bundespräsidentin/des deutschen Bundespräsidenten? © Bundesregierung/Engelbert Reineke",
-            "image": "70.jpg",
+            "image": "70.png",
             "options": [
                 "Sie/Er führt die Regierungsgeschäfte.",
                 "Sie/Er kontrolliert die Regierungspartei.",
@@ -1550,7 +1550,7 @@
         },
         {
             "question": "Welcher Stimmzettel wäre bei einer Bundestagswahl gültig? In Anlehnung an Bundeswahlordnung (BWO), Anlage 26",
-            "image": "130.jpg",
+            "image": "130.png",
             "options": [
                 "1",
                 "2",
@@ -2102,7 +2102,7 @@
         },
         {
             "question": "Wie waren die Besatzungszonen Deutschlands nach 1945 verteilt?",
-            "image": "176.jpg",
+            "image": "176.png",
             "options": [
                 "1=Großbritannien, 2=Sowjetunion, 3=Frankreich, 4=USA",
                 "1=Sowjetunion, 2=Großbritannien, 3=USA, 4=Frankreich",
@@ -2162,7 +2162,7 @@
         },
         {
             "question": "Was wollte Willy Brandt mit seinem Kniefall 1970 im ehemaligen jüdischen Ghetto in Warschau ausdrücken? © Bundesregierung/Engelbert Reineke",
-            "image": "181.jpg",
+            "image": "181.png",
             "options": [
                 "Er hat sich den ehemaligen Alliierten unterworfen.",
                 "Er bat Polen und die polnischen Juden um Vergebung.",
@@ -2234,7 +2234,7 @@
         },
         {
             "question": "Welcher deutsche Staat hatte eine schwarz-rot-goldene Flagge mit Hammer, Zirkel und Ährenkranz?",
-            "image": "187.jpg",
+            "image": "187.png",
             "options": [
                 "Preußen",
                 "Bundesrepublik Deutschland",
@@ -2498,7 +2498,7 @@
         },
         {
             "question": "Welches war das Wappen der Deutschen Demokratischen Republik?",
-            "image": "209.jpg",
+            "image": "209.png",
             "options": [
                 "1",
                 "2",
@@ -2582,7 +2582,7 @@
         },
         {
             "question": "Welches Symbol ist im Plenarsaal des Deutschen Bundestages zu sehen? © Deutscher Bundestag/Janine Schmitz",
-            "image": "216.jpg",
+            "image": "216.png",
             "options": [
                 "der Bundesadler",
                 "die Fahne der Stadt Berlin",
@@ -2702,7 +2702,7 @@
         },
         {
             "question": "Welche ist die Flagge der Europäischen Union?",
-            "image": "226.jpg",
+            "image": "226.png",
             "options": [
                 "1",
                 "2",
@@ -2810,7 +2810,7 @@
         },
         {
             "question": "Der damalige französische Staatspräsident François Mitterrand und der damalige deutsche Bundeskanzler Helmut Kohl gedenken in Verdun gemeinsam der Toten beider Weltkriege. Welches Ziel der Europäischen Union wird bei diesem Treffen deutlich? © Bundesregierung/Richard Schulze-Vorberg",
-            "image": "235.jpg",
+            "image": "235.png",
             "options": [
                 "Freundschaft zwischen England und Deutschland",
                 "Reisefreiheit in alle Länder der EU",
